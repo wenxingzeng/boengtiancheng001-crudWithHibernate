@@ -1,0 +1,2 @@
+# boengtiancheng001-crudWithHibernate
+easyUI+SpringMVC+Hibernate的整合，实现了对用户信息的增删改查的操作
